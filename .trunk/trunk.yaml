@@ -19,9 +19,9 @@ lint:
   disabled:
     - pinact
   enabled:
-    - oxlint@1.89.0
+    - oxlint@1.90.0
     - actionlint@1.7.12
-    - checkov@3.3.30
+    - checkov@3.4.0
     - git-diff-check
     - grype@0.121.0
     - markdownlint@0.50.0
@@ -45,4 +45,4 @@ actions:
     - trunk-upgrade-available
 tools:
   enabled:
-    - oxfmt@0.74.0
+    - oxfmt@0.75.0
