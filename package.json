@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@scure/bip39": "^2.4.0",
-    "commander": "^15.0.0",
+    "commander": "^15.1.0",
     "typescript": "^7.0.2"
   },
   "devDependencies": {
