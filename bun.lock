@@ -13,7 +13,7 @@
         "@trunkio/launcher": "^1.3.4",
         "@types/bun": "^1.4.4",
         "npm-run-all2": "^9.0.4",
-        "prettier": "^3.9.10",
+        "prettier": "^3.10.0",
       },
     },
   },
@@ -103,7 +103,7 @@
 
     "pidtree": ["pidtree@1.0.0", "", { "bin": { "pidtree": "bin/pidtree.js" } }, "sha512-avfAvjB9Dd0wdj3rjJX//yS+G79OO0KrS5pJHFJENjYGX6N4SMgEDBBI/yFy0lloOYSaC6XQxzpOAMPfSYFV/Q=="],
 
-    "prettier": ["prettier@3.9.10", "", { "bin": { "prettier": "bin/prettier.cjs" } }, "sha512-skGHTH1Yb9QvaTC4hWnRTzEYtCpApF0UMBPz+t/0ZPzP8ihefo/btKd+QA7pUE0fEwA1SbS/NmhyEcstdXOIdA=="],
+    "prettier": ["prettier@3.10.0", "", { "bin": { "prettier": "bin/prettier.cjs" } }, "sha512-mBi4765LgjO1PFjlEs7pUeK0nb1bw71c+N4/ItfeUWNdY5cV2pRKaFpbbFRYmDJMO+5ZwzGxHRqHxFZna7iv5w=="],
 
     "read-package-json-fast": ["read-package-json-fast@6.0.0", "", { "dependencies": { "json-parse-even-better-errors": "^6.0.0", "npm-normalize-package-bin": "^6.0.0" } }, "sha512-PNaGjoCnw9DBA2Kl8D+8po957z778q/HOPuY2u3Bkw/JO3eC8MDx7jn/PgMtSgpcBbs+6UOjDbwReGpXmRvs0g=="],
 
